@@ -1,6 +1,9 @@
 # Rock-paper-scissors-lizard-Spock by Marcos Sánchez
 
- 
+# execute
+# http://www.codeskulptor.org/#user23_4B5iZbcGjj2YAsc_0.py
+# to try
+
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
 # as follows:
